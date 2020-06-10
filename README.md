@@ -151,3 +151,5 @@ As this repo use scikit-image for image processing, on Windows you need Microsof
 - I also pick some ideas from [this great series of articles](https://www.pyimagesearch.com/2017/12/11/image-classification-with-keras-and-deep-learning/) for the *automatic* part to grab images.
 
 The goal of this repo is mainly to provide the smaller python library as possible to generate an image dataset, without a big framework like Keras, Tflearn etc, which can be hard to configure and install for new people working on Data Science / AI.
+
+## .....................................................................................................................................................................................................................................................................
